@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello, World! 🌍
 
 
-##🛠️ Meet the futur Engineer :
+## 🛠️ Meet the futur Engineer :
 
 🎓 **Education**:
 - Master's degree in in computer science as part of a double degree program, [Université de Sherbrooke](https://www.usherbrooke.ca/), Canada
