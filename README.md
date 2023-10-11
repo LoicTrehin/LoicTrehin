@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ## 🛠️ Meet the futur Engineer :
 
-🎓 **Education**:
-- Master's degree in in computer science as part of a double degree program, [Université de Sherbrooke](https://www.usherbrooke.ca/), Canada
+#### 🎓 **Education**:
+- Master's degree in in computer science as part of a double degree program, [Sherbrooke University](https://www.usherbrooke.ca/), Canada
 - Master's degree in Software Engineering at [EFREI Paris](https://www.efrei.fr/), France
 
-🌱 **Currently Learning**: 
+#### 🌱 **Currently Learning**: 
 - Web and App developpement :
   - Javascript, Node JS and REST API, Android Kotlin & Jetpack, React...
 - IoT :
@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 - Bioinformatics Algorithms
 - Cryptography fundamentals
 
-🔭 **Example of an academic project**:
+#### 🔭 **Example of an academic project**:
 - [AWS network architecture](https://github.com/Gaetan-Mounsamy/CloudProjet) - The "AWS network architecture" is a cloud infrastructure academic project on AWS, meticulously designed to ensure optimal security, connectivity, and data management.
 
-🤝 **Looking to Collaborate on**: 
+#### 🤝 **Looking to Collaborate on**: 
 - Exciting app and web development projects that will improve my dev skills
 
-📫 **How to Reach Me**: 
+#### 📫 **How to Reach Me**: 
 - Email: [loic.trehin@usherbrooke.ca](mailto:loic.trehin@usherbrooke.ca)
 - LinkedIn: [Loïc Tréhin](https://www.linkedin.com/in/loic-trehin/)
 
-💬 **Languages**:
+#### 💬 **Languages**:
 - Avdanced in English, native in French.
 
 
