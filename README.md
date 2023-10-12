@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🛠️ Meet the futur Engineer :
 
 #### 🎓 **Education**:
-- Master's degree in in computer science as part of a double degree program, [Sherbrooke University](https://www.usherbrooke.ca/about/), Canada
+- Master's degree in in computer science as part of a double degree program, [University of Sherbrooke](https://www.usherbrooke.ca/about/), Canada
 - Master's degree in Software Engineering at [EFREI Paris](https://eng.efrei.fr/), France
 
 #### 🌱 **Currently Learning**: 
